@@ -4,32 +4,38 @@
 
 ## До оптимизации
 
-|                 | Без  ограничения | Медленный канал |
-|-----------------|------------------|-----------------|
-|DOMContentLoaded |                  |                 |
-|Load             |                  |                 |
-|Начало отрисовки |                  |                 |
-|Полная отрисовка |                  |                 |
+35
+Performance
 
-Количество запросов при открытии главной: 106
+18
+Progressive Web App
 
-Объем трафика: 3.4 Мб
+63
+Accessibility
 
-Данные PageSpeed Insights: М 73/100. D 41/100
+50
+Best Practices
+
+89
+SEO
+
+Metrics
+
+First Contentful Paint
+3 670 ms
+Speed Index
+6 090 ms
+Time to Interactive
+20 960 ms
+First Meaningful Paint
+3 980 ms
+First CPU Idle
+6 470 ms
+Estimated Input Latency
+354 ms
 
 
 
 ## После оптимизации
 
-|                 | Без  ограничения | Медленный канал |
-|-----------------|------------------|-----------------|
-|DOMContentLoaded |                  |                 |
-|Load             |                  |                 |
-|Начало отрисовки |                  |                 |
-|Полная отрисовка |                  |                 |
 
-Количество запросов при открытии главной:
-
-Объем трафика:
-
-Данные PageSpeed Insights: М XXX/100. D XXX/100
