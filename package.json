@@ -11,15 +11,24 @@
   "devDependencies": {
     "autoprefixer": "^8.0.0",
     "browser-sync": "^2.14.0",
+    "css-mqpacker": "^7.0.0",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
     "gulp-file-include": "^2.0.1",
     "gulp-gh-pages": "git+https://github.com/nicothin/gulp-gh-pages.git",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
     "gulp-notify": "^3.0.0",
     "gulp-plumber": "^1.1.0",
     "gulp-postcss": "^7.0.0",
     "gulp-sass": "^4.0.1",
     "gulp-sequence": "^1.0.0",
-    "gulp-wait": "0.0.2"
-  }
+    "gulp-uglify": "^3.0.1",
+    "gulp-wait": "0.0.2",
+    "gulp-webp": "^3.0.0",
+    "gulp-webp-html": "^1.0.2"
+  },
+  "dependencies": {}
 }
